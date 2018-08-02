@@ -1,4 +1,4 @@
-FROM node:9-alpine
+FROM node:10-alpine
 LABEL maintainer "rvillage <rvillage@gmail.com>"
 
 ENV HEROKU_CLI_VERSION 7.0.9
